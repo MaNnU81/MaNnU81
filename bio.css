@@ -93,6 +93,7 @@ p, h1{
     left: 0;
     bottom: 50%;
     font-size: 25px;
+    text-align: justify;
 }
 .caption span strong {
     font-weight: bold;
